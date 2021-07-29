@@ -1,0 +1,28 @@
+[
+    {
+        "vardas": "Jonas",
+        "pavarde": "Jonaitis",
+        "telefonai" :"333333333333",
+        "email": "jonas123@gmail.com",
+        "gimimoMetai": "1983"
+    },
+    
+    {
+        "vardas": "Petras",
+        "pavarde": "Jonaitis",
+        "telefonai" :"40000000000",
+        "email": "jonas123@gmail.com",
+        "gimimoMetai": "1985"
+    },
+    
+    {
+        "vardas": "Jonas",
+        "pavarde": "Jonukaitis",
+        "telefonai" : [
+            "3432523235",
+            "3432442235"
+        ],
+        "email": "jonas123@gmail.com",
+        "gimimoMetai": "1986"
+    }
+]
